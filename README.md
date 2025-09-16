@@ -27,6 +27,9 @@
 - [database.py](milestone_5/database.py)  
 - [database.csv](milestone_5/database.csv)
 
+### ◆ [Milestone 8](milestone_8)
+- [bookshelf.py](milestone_8/bookshelf.py)
+
 ---
 
 ## Опис
@@ -37,6 +40,6 @@
 - **Milestone 3** – побудова трикутника Паскаля.  
 - **Milestone 4** – завдання на аналіз trade-offs.  
 - **Milestone 5** – генерація даних, збереження в базу та формування звітів.
-
+- **Milestone 8** — організація книжок по полицях, використання класів та Faker для генерації даних.
 ---
 
